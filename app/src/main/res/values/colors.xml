@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Color Palette -->
+    <color name="md_theme_light_primary">#006A64</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#70F7EE</color>
+    <color name="md_theme_light_onPrimaryContainer">#00201E</color>
+    <color name="md_theme_light_secondary">#4A635F</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#CCE8E2</color>
+    <color name="md_theme_light_onSecondaryContainer">#05201C</color>
+    <color name="md_theme_light_tertiary">#456179</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#CCE5FF</color>
+    <color name="md_theme_light_onTertiaryContainer">#001D32</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FAFDFB</color>
+    <color name="md_theme_light_onBackground">#191C1C</color>
+    <color name="md_theme_light_surface">#FAFDFB</color>
+    <color name="md_theme_light_onSurface">#191C1C</color>
+    <color name="md_theme_light_surfaceVariant">#DAE5E1</color>
+    <color name="md_theme_light_onSurfaceVariant">#3F4947</color>
+    <color name="md_theme_light_outline">#6F7977</color>
+    <color name="md_theme_light_inverseOnSurface">#EFF1EF</color>
+    <color name="md_theme_light_inverseSurface">#2D3130</color>
+    <color name="md_theme_light_inversePrimary">#4EDAD2</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surfaceTint">#006A64</color>
+    <color name="md_theme_light_outlineVariant">#BEC9C5</color>
+    <color name="md_theme_light_scrim">#000000</color>
+
+    <!-- Dark Theme -->
+    <color name="md_theme_dark_primary">#4EDAD2</color>
+    <color name="md_theme_dark_onPrimary">#003734</color>
+    <color name="md_theme_dark_primaryContainer">#00504B</color>
+    <color name="md_theme_dark_onPrimaryContainer">#70F7EE</color>
+    <color name="md_theme_dark_secondary">#B1CCC6</color>
+    <color name="md_theme_dark_onSecondary">#1C3531</color>
+    <color name="md_theme_dark_secondaryContainer">#324B47</color>
+    <color name="md_theme_dark_onSecondaryContainer">#CCE8E2</color>
+    <color name="md_theme_dark_tertiary">#ADC9E6</color>
+    <color name="md_theme_dark_onTertiary">#153349</color>
+    <color name="md_theme_dark_tertiaryContainer">#2D4961</color>
+    <color name="md_theme_dark_onTertiaryContainer">#CCE5FF</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#191C1C</color>
+    <color name="md_theme_dark_onBackground">#E0E3E1</color>
+    <color name="md_theme_dark_surface">#191C1C</color>
+    <color name="md_theme_dark_onSurface">#E0E3E1</color>
+    <color name="md_theme_dark_surfaceVariant">#3F4947</color>
+    <color name="md_theme_dark_onSurfaceVariant">#BEC9C5</color>
+    <color name="md_theme_dark_outline">#889391</color>
+    <color name="md_theme_dark_inverseOnSurface">#191C1C</color>
+    <color name="md_theme_dark_inverseSurface">#E0E3E1</color>
+    <color name="md_theme_dark_inversePrimary">#006A64</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_surfaceTint">#4EDAD2</color>
+    <color name="md_theme_dark_outlineVariant">#3F4947</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+
+    <!-- GlassBox Custom Colors -->
+    <color name="glassbox_primary">#FF00D4FF</color>
+    <color name="glassbox_secondary">#FF9400D3</color>
+    <color name="glassbox_tertiary">#FF00C853</color>
+    <color name="glassbox_background">#FF0D1117</color>
+    <color name="glassbox_surface">#FF161B22</color>
+    <color name="glassbox_text_primary">#FFFFFFFF</color>
+    <color name="glassbox_text_secondary">#FF8B949E</color>
+    <color name="glassbox_success">#FF3FB950</color>
+    <color name="glassbox_error">#FFF85149</color>
+    <color name="glassbox_warning">#FFDBAB09</color>
+    <color name="glassbox_info">#FF00D4FF</color>
+</resources>

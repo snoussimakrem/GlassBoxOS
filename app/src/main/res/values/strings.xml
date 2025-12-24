@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GlassBox OS</string>
+    <string name="control_panel">Control Panel</string>
+    <string name="terminal">Terminal</string>
+    <string name="file_system">File System</string>
+    <string name="process_tree">Process Tree</string>
+    <string name="add_node">Add Node</string>
+    <string name="node_name">Node Name</string>
+    <string name="add_leaf">Add Leaf</string>
+    <string name="add_branch">Add Branch</string>
+    <string name="tree_depth">Tree Depth</string>
+    <string name="total_branches">Total Branches</string>
+    <string name="total_leaves">Total Leaves</string>
+    <string name="expand_all">Expand All</string>
+    <string name="collapse_all">Collapse All</string>
+    <string name="search_tree">Search Tree…</string>
+    <string name="save_tree">Save Tree</string>
+    <string name="load_tree">Load Tree</string>
+</resources>

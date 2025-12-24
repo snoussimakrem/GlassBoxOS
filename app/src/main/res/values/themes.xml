@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme using Material 3 -->
+    <style name="Theme.GlassBoxOS" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:windowBackground">@color/glassbox_background</item>
+        <item name="android:statusBarColor">@color/glassbox_background</item>
+        <item name="android:navigationBarColor">@color/glassbox_background</item>
+        <item name="android:colorPrimary">@color/glassbox_primary</item>
+        <item name="android:colorSecondary">@color/glassbox_secondary</item>
+    </style>
+
+</resources>
